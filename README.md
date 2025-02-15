@@ -60,7 +60,3 @@ Welcome to the final project! In this project, you will demonstrate your ability
 ## Conclusion
 
 By following these instructions and implementing the necessary media queries and adjustments, you will create a responsive website that adapts to different screen sizes and user preferences. This project also emphasizes the importance of transitioning to digital solutions to achieve carbon neutrality.
-
----
-
-Feel free to customize the README as needed. Good luck with your final project!
